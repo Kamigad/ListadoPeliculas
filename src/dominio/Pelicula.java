@@ -38,10 +38,4 @@ public class Pelicula {
                 '}';
     }
 
-    public static void main(String[] args) {
-        var pelicula1 = new Pelicula("Batman");
-        var pelicula2 = new Pelicula("Superman");
-        System.out.println(pelicula2);
-        System.out.println(pelicula1);
-    }
 }
